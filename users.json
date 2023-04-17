@@ -1,32 +1,12 @@
 [
     {
       "id": 1,
-      "username": "서호철",
-      "texts": "미적분 수행평가 마감 4월 17일"
+      "username": "gang",
+      "texts": "ganggang"
     },
     {
         "id": 2,
-        "username": "강혜인",
-        "texts": "생명과학 수행평가 마감 4월 17일"
-      },
-      {
-        "id": 3,
-        "username": "박민규",
-        "texts": "기하 수행평가 마감 4월 17일"
-      },
-      {
-        "id": 4,
-        "username": "빅나티",
-        "texts": "최신 앨범 기리보이의 Kiss me"
-      },
-      {
-        "id": 5,
-        "username": "아오",
-        "texts": "아오오오오"
-      },
-      {
-        "id": 6,
-        "username": "헉",
-        "texts": "허어억"
+        "username": "khibobo",
+        "texts": "kangkang"
       }
   ]
